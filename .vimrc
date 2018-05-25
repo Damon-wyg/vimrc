@@ -164,12 +164,12 @@ map <C-j> :bp<cr>
 "上一个文件
 "}
 
-"NERDTree-Tabs{
-let g:nerdtree_tabs_open_on_console_startup=1       
-"设置打开vim的时候默认打开目录树
-map <F3> <plug>NERDTreeTabsToggle <CR>         
-"设置打开目录树的快捷键
-"}
+""NERDTree-Tabs{
+"let g:nerdtree_tabs_open_on_console_startup=1       
+""设置打开vim的时候默认打开目录树
+"map <F3> <plug>NERDTreeTabsToggle <CR>         
+""设置打开目录树的快捷键
+""}
 
 "UltiSnips{
 let g:UltiSnipsExpandTrigger="<c-j>"
