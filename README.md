@@ -59,6 +59,7 @@ python的一个字典补全插件，直接在编写python代码中可以实现ta
 YouCompleteMe
 ===
 vim神级补全插件，这个插件需要编译方可使用，否则启动vim会报错，强烈建议先读官方文档编译这个插件：https://github.com/Valloric/YouCompleteMe
+编译依赖cmake/gcc/gcc-c++，需要提前安装，然后进入.vim/bundle/YouCompleteMeM目录，执行install.py脚本即可
 
 
 nerdcommenter
