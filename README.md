@@ -12,6 +12,8 @@ vim技巧，推荐阅读：http://www.cnblogs.com/xiaochaohuashengmi/archive/201
 
 使用说明
 ====
+**需要安装或编译的： ctags/youcompleteme **
+
 使用了tagbar插件，该插件依赖于系统中的ctags命令，先在终端敲一下ctags看看有没有这条命令，如果没有的话装一个。
 
 ubuntu系的系统使用如下命令即可:``sudo apt-get install exuberant-ctags``
